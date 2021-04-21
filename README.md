@@ -41,10 +41,10 @@
 
 ## Installation Add-on
 ---
-- Copy the `security_dashboard` folder in to the `dwains-dashboard/addons/more_page` directory.
+- Copy the `house_consumption` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
 ```yaml
- - name: Security Dashboard
+ - name: House consumption
    icon: fas:chart-line
    main_menu: 'true' #Show this addon in the main navigation bar!
    path: 'dwains-dashboard/addons/more_page/house_consumption/page.yaml'
