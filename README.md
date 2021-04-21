@@ -22,7 +22,7 @@
 <p align="center">House consumption in Home Assistant Dwains Dashboard.</p>
 
 
-<p align="center">Created by <a href="https://github.com/LRvdLinden">Dwains Community</a>
+<p align="center">Created by <a href="https://discord.gg/7yt64uX">Dwains Community</a>
 </p> 
 
 
