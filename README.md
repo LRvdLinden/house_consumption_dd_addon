@@ -65,6 +65,6 @@
 
 
 ---
-Enjoy my house consumption? Help us out for a couple of :beers: or a :coffee:!
+Enjoy our house consumption? Help us out for a couple of :beers: or a :coffee:!
 
 [![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/LRvdLinden)
