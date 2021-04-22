@@ -36,7 +36,8 @@
 ---
 - Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115438802-1cb81500-a20e-11eb-92f5-02fc2154f570.png">
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115668482-72dca380-a347-11eb-9f15-0293ba233d7f.png">
+
 
 
 ## Installation Add-on
