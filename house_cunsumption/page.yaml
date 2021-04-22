@@ -1,6 +1,7 @@
-## Created by Tom Starren
-## More-page add-on: Power usage
+## Created by Dwains Community
+## More-page add-on: House consumption
 ## Version: 1.0.0
+## https://github.com/LRvdLinden
 
 - type: custom:dwains-flexbox-card
   items_classes: 'col-xs-12 col-sm-6 col-md-6 col-lg-6'
