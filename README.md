@@ -8,8 +8,8 @@
   <a href="https://github.com/custom-components/hacs">
     <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
   </a>
-  <a href="https://github.com/LRvdLinden/security_dashboard_dd_addon">
-    <img src="https://img.shields.io/github/v/release/LRvdLinden/security_dashboard_dd_addon" />
+  <a href="https://github.com/LRvdLinden/house_consumption_dd_addon">
+    <img src="https://img.shields.io/github/v/release/LRvdLinden/house_consumption_dd_addon" />
   </a>
     <a href="https://github.com/LRvdLinden/">
     <img src="https://img.shields.io/github/followers/LRvdLinden?style=social" />
