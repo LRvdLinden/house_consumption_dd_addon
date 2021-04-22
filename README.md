@@ -61,7 +61,7 @@
 ```
 - Reload the theme configuration via Theme Settings
 
-## Replace the following
+## Replace the following 🔧
 ---
 - If some `sensors` not showing after this manual, please add the correct `sensor` to monitor
 - change camera `entities` in the `page.yaml` file
