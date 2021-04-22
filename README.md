@@ -34,7 +34,7 @@
 
 ## Prerequisite
 ---
-- Make sure you have installed [Alarm Control Panel](https://www.home-assistant.io/integrations/manual), [Alarm Control Panel Card](https://www.home-assistant.io/lovelace/alarm-panel) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
+- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115438802-1cb81500-a20e-11eb-92f5-02fc2154f570.png">
 
