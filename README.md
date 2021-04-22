@@ -30,7 +30,7 @@
 
 
 
-## Prerequisite
+## Prerequisite ⚙️
 ---
 - Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
@@ -49,7 +49,7 @@
 - Reboot Home Assistant
 
 
-## Installation Add-on
+## Installation Add-on ⚙️
 ---
 - Copy the `house_consumption` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
