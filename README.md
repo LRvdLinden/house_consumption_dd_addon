@@ -63,8 +63,9 @@
 
 ## Replace the following 🔧
 ---
+See the example files in the `sensors` folder for creating sensors. You need to create utility sensors, calculation template sensors for device and al used utilities like gas, electricity  and water if available
 - If some `sensors` not showing after this manual, please add the correct `sensor` to monitor
-- change camera `entities` in the `page.yaml` file
+
 
 
 ## Result
