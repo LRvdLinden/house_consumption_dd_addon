@@ -32,7 +32,7 @@
 
 ## Prerequisite ⚙️
 ---
-- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
+- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115668482-72dca380-a347-11eb-9f15-0293ba233d7f.png">
 
@@ -44,7 +44,7 @@
  - name: House consumption
    icon: fas:chart-line
    main_menu: 'true' #Show this addon in the main navigation bar!
-   path: 'dwains-dashboard/addons/more_page/house_consumption/page.yaml'
+   path: 'dwains-dashboard/addons/more_page/house_cunsumption/page.yaml'
 ```
 - Reboot Home Assistant
 
