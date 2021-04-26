@@ -36,12 +36,6 @@
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115668482-72dca380-a347-11eb-9f15-0293ba233d7f.png">
 
-## Installation sensors
----
-- Copy the files from folder `sensors` and place them in to the `/config/sensor` directory.
-- Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
-- Reboot Home Assistant
-
 
 ## Installation Add-on ⚙️
 ---
@@ -51,14 +45,14 @@
  - name: House consumption
    icon: fas:chart-line
    main_menu: 'true' #Show this addon in the main navigation bar!
-   path: 'dwains-dashboard/addons/more_page/house_consumption/page.yaml'
+   path: 'dwains-dashboard/addons/more_page/house_cunsumption/page.yaml'
 ```
 - Reload the theme configuration via Theme Settings
 
 ## Create sensors 🔧
 ---
 See the example files in the `sensors` folder for creating sensors. You need to create utility sensors, calculation template sensors for device and al used utilities like gas, electricity  and water if available
-- Copy and place the `sensor` `files` into your `sensor` directory
+- Copy and place the `sensor` `files` in to your `/config/sensor` directory
 - Reboot Home Assistant
 - If some `sensors` not showing after this manual, please add the correct `sensor` to monitor
 
