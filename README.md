@@ -40,12 +40,6 @@
 ---
 - Copy the files from folder `sensors` and place them in to the `/config/sensor` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
-```yaml
- - name: House consumption
-   icon: fas:chart-line
-   main_menu: 'true' #Show this addon in the main navigation bar!
-   path: 'dwains-dashboard/addons/more_page/house_cunsumption/page.yaml'
-```
 - Reboot Home Assistant
 
 
