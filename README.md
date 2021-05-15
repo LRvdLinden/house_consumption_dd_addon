@@ -5,11 +5,11 @@
   <a href="https://dwainscheeren.github.io/dwains-lovelace-dashboard/">
     <img src="https://img.shields.io/badge/Dwains%20Dashboard-Default-299ec2.svg" />
   </a>
-  <a href="https://github.com/custom-components/hacs">
-    <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
-  </a>
   <a href="https://github.com/LRvdLinden/house_consumption_dd_addon">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/house_consumption_dd_addon" />
+  </a>
+      <a href="https://github.com/LRvdLinden/house_consumption_dd_addon/commits">
+    <img src="https://img.shields.io/github/last-commit/LRvdLinden/house_consumption_dd_addon.svg?style=plasticr" />
   </a>
     <a href="https://github.com/LRvdLinden/">
     <img src="https://img.shields.io/github/followers/LRvdLinden?style=social" />
