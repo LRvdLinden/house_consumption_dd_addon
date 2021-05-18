@@ -25,16 +25,15 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77990847/118639426-31b9a100-b7d8-11eb-9be3-0894161314c1.png" />
+  <img src="https://user-images.githubusercontent.com/77990847/118639513-47c76180-b7d8-11eb-8a56-6c7697135655.png" />
 </p>
-
 
 
 ## Prerequisite ⚙️
 ---
 - Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115668482-72dca380-a347-11eb-9f15-0293ba233d7f.png">
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/118639579-5c0b5e80-b7d8-11eb-83d6-568d89e8a0cc.png">
 
 
 ## Installation Add-on ⚙️
