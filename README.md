@@ -60,7 +60,7 @@ See the example files in the `sensors` folder for creating sensors. You need to 
 ## Result
 ---
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77990847/115602989-e945bb00-a2df-11eb-8c6b-94f84898e3c3.png" />
+  <img src="https://user-images.githubusercontent.com/77990847/118639513-47c76180-b7d8-11eb-8a56-6c7697135655.png" />
 </p>
 
 
