@@ -23,6 +23,7 @@
 and customize by TomStarren</a>
 </p> 
 
+<p align="center">House consumption Dashboard in Home Assistant Dwains Dashboard.</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77990847/118639513-47c76180-b7d8-11eb-8a56-6c7697135655.png" />
