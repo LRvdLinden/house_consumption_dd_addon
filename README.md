@@ -32,7 +32,7 @@ and customize by TomStarren</a>
 
 ## Prerequisite ⚙️
 ---
-- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
+- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), [auto-entities](https://github.com/thomasloven/lovelace-auto-entities) and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/118639579-5c0b5e80-b7d8-11eb-83d6-568d89e8a0cc.png">
 
